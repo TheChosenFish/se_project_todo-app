@@ -8,7 +8,11 @@ Simply click 'add to do' and a pop up with a form asking you date and duty to be
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+For this app to function properly a system of form validation was used to verify the form was filled out correctly while also disabling buttons to submit to-do's upon resetting the form or initially opening a to-do form
+
+<link(./images/todo1)>
+<link(./images/todo2)>
+<link(./images/todo3)>
 
 
 
