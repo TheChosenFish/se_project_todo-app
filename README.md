@@ -20,4 +20,4 @@ For this app to function properly a system of form validation was used to verify
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+[https://thechosenfish.github.io/se_project_todo-app/]
