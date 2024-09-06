@@ -1,14 +1,16 @@
-# Simple Todo App
+# Simple GET BUSY App
 
-Give a brief description of the project here. Feel free to give it a different name.
+The GET BUSY App is an app designed to help you keep track of all the tasks you need to get done. Get Busy!
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Simply click 'add to do' and a pop up with a form asking you date and duty to be fulfilled will appear. Fill it out, click create and add it to the list of things to do!!
 
 ## Technology
 
 Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+
+
 
 ## Deployment
 
