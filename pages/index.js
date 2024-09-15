@@ -30,6 +30,7 @@ const addTodoPopup = new PopupWithForm({
     todosList.append(todo); // use add item method instead
     closeModal(addTodoPopupEl);
     newTodoValidator.resetValidation();
+    todoCounter.updateTotal(true);
     console.log(inValues.target.name.value);
     console.log(inValues.target.date.value);
   },
@@ -43,6 +44,7 @@ function handleCheck(completed) {
 function handleDelete(completed) {
   if (completed) {
     todoCounter.updateCompleted(false);
+    todoCounter.updateTotal(false)
   }
 }
 

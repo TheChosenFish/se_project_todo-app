@@ -23,9 +23,9 @@ class TodoCounter {
   // created via the form.
   updateTotal = (increment) => {
     if (increment) {
-        this._total -= 1
+        this._total += 1
     } else {
-        this.total += 1;
+        this._total -= 1;
     }
     // if increment is true, add 1 to this._total. Otherwise, subtract 1.
     this._updateText();
