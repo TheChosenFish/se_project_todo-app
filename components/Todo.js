@@ -4,7 +4,7 @@ class Todo {
     this._templateElement = document.querySelector(selector);
     this._handleCheck = handleCheck;
     this._handleDelete = handleDelete;
-    this._handleTotal = handleTotal;
+    this._handleTotal = handleTotal
   }
 
   _setEventListener() {

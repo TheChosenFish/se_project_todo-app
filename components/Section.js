@@ -12,6 +12,7 @@ renderItems() {
 }
 addItem(element) {
    this._container.append(element);
+   
 }
 }
 
